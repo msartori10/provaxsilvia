@@ -7,6 +7,7 @@ void main(){
 	for(i=0;i<10000;i++){
 		pi = pi+1;
 		std::cout << pi;
+		std::cout << miao;
 	}
 
 	
